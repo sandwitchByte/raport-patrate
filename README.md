@@ -5,4 +5,4 @@ il fac privat dupa ce se termina conferinta asta
 
 - posibil rezultatul ar trebui sortat in ordine crescatoare dupa n, dar vad ce pot face
 - mai mentionez inca o data ca rezultatele la ecran se afiseaza
-♡ imi place mult ce am facut
+- imi place mult ce am facut ♡
